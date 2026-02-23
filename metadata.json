@@ -1,0 +1,8 @@
+{
+  "name": "Mozza Bunga Tarmuji - Personal Portfolio",
+  "description": "A high-tech, futuristic personal portfolio for Mozza Bunga Tarmuji, featuring a 3D background, AI chatbot, and detailed CV sections based on her professional experience in office management and AI-driven digital marketing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
